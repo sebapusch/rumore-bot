@@ -2,3 +2,4 @@ data.db
 junk
 .env
 .idea
+__pycache__
